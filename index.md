@@ -16,10 +16,10 @@ The tool addresses the critical challenge of health misinformation by providing 
 ### Wireframe Overview
 The system follows a user-centered design approach with intuitive content input and comprehensive analysis output:
 
-![Main Interface Wireframe](images/wireframes/01-main-interface.jpg)(images/wireframes/02-main-interface.jpg)
+![Main Interface Wireframe](images/01-main-interface.jpeg)(images/02-main-interface.jpeg)
 *Main interface wireframe showing the home screen*
 
-![Analysis Results](images/wireframes/03-analysis-results.jpg)
+![Analysis Results](images/03-analysis-results.jpeg)
 *Comprehensive report of the analysis*
 
 The wireframe demonstrates:
