@@ -138,6 +138,3 @@ Health misinformation poses significant public health risks, especially during h
 - **Multi-language Support**: Expand beyond English content
 - **Automated Alerts**: Notification system for high-threat content
 - **API Integration**: Connect with external platforms
-
-**Technologies**: Python, OpenAI, Flask, Selenium, YouTube API, Google Sheets API, Whisper, GPT-4
-**Skills Demonstrated**: Product Management, AI/ML Integration, Full-stack Development, System Architecture, Data Analysis
