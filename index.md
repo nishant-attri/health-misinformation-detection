@@ -11,6 +11,23 @@ The tool addresses the critical challenge of health misinformation by providing 
 - **Real-time Analysis**: Instant threat assessment and fact-checking
 - **Scalable Solution**: Handles high-volume content processing
 
+## 🎨 System Design & User Experience
+
+### Wireframe Overview
+The system follows a user-centered design approach with intuitive content input and comprehensive analysis output:
+
+![Main Interface Wireframe](images/wireframes/01-main-interface.jpg)(images/wireframes/02-main-interface.jpg)
+*Main interface wireframe showing the home screen*
+
+![Analysis Results](images/wireframes/03-analysis-results.jpg)
+*Comprehensive report of the analysis*
+
+The wireframe demonstrates:
+- **Clean Input Interface**: Simple content URL/file upload mechanism
+- **Multi-Platform Support**: YouTube, Twitter, web articles, and audio files
+- **Feature-Rich Analysis**: AI-powered detection with real-time processing
+- **Comprehensive Reporting**: Detailed analysis with threat assessment
+
 ## Core Features
 
 ### 1. Multi-Platform Content Processing
